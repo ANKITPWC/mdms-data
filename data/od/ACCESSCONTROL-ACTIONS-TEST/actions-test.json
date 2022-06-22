@@ -12863,7 +12863,7 @@
          "path": ""
       },
 	  {
-      "id": 3248,
+      "id": 3249,
       "name": "BPA-Create notice",
       "url": "/bpa-services/v1/notice/_create",
       "parentModule": "",
@@ -12875,7 +12875,7 @@
       "path": ""
    },
          {
-      "id": 3249,
+      "id": 3250,
       "name": "BPA-Search-scn",
       "url": "/bpa-services/v1/notice/_search",
       "parentModule": "",
